@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b3df31d-e0c1-4bd4-b08b-ddd935b8ba73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy/main.tf" afterDir="false" />
+    <list default="true" id="8b3df31d-e0c1-4bd4-b08b-ddd935b8ba73" name="Default Changelist" comment="Dependencies and main.go emptied out">
       <change afterPath="$PROJECT_DIR$/functions/retweeter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/functions/retweeter_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,6 +82,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed deployment issues with Terraform. &#10;&#10;Still need to figure out how to do &quot;last-updated-at&quot; label for the lambda" />
+    <MESSAGE value="IDE settings" />
+    <MESSAGE value="Dependencies and main.go emptied out" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependencies and main.go emptied out" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

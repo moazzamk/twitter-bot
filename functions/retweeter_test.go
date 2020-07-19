@@ -1,4 +1,4 @@
-package twitter_bot
+package functions
 
 import (
 	"fmt"
@@ -6,7 +6,5 @@ import (
 )
 
 func Test_main(t *testing.T) {
-
-	main()
-	fmt.Println("hi")
+	fmt.Println("hi1")
 }
